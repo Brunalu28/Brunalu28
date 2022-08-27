@@ -3,8 +3,7 @@
 ## Sobre mim 👩‍💻
 
 - Formada no curso Técnico em Informática pelo IFPB
-- Estudando front-end
-- Pronomes: ela/dela
+- Cursando engenharia de computação no IFPB
 
 <div align="center">
   <a href="https://github.com/Brunalu28">
