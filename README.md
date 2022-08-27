@@ -3,7 +3,7 @@
 ## Sobre mim 👩‍💻
 
 - Formada no curso Técnico em Informática pelo IFPB
-- Cursando engenharia de computação no IFPB
+- Cursando Engenharia de Computação no IFPB
 
 <div align="center">
   <a href="https://github.com/Brunalu28">
